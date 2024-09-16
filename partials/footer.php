@@ -31,7 +31,7 @@
                     <a href="https://www.instagram.com/charan_naidu_2005/?next=%2F" class="text-white mx-2" target="_blank">
                         <i class="fab fa-instagram fa-2x"></i>
                     </a>
-                
+                <\div>
             </div>
         <div class="col-md-12 text-center pt-3">
             <p class="mb-0">All Rights Reserved®</p>
